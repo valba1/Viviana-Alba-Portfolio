@@ -1,0 +1,35 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: .5cm;
+    margin-left: .5cm;
+  }
+  
+  
+  .header {
+    color: rgb(245, 238, 238);
+    text-align: center;
+    font-size: 25px;
+    background: rgba(245, 245, 245, 0.346);
+  }
+  
+  
+  body {
+    font-size: 15px;
+    color: white;
+    background-image: url(https://cdn.wallpapersafari.com/98/57/buqGlz.jpg);
+    margin-right: .5cm;
+    margin-left: .5cm;
+  }
+  
+  
+  h2 {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .contact {
+    color: rgb(245, 238, 238);
+    text-align: center;
+    background: rgba(245, 245, 245, 0.346);
+  }
+  
